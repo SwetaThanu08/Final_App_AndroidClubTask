@@ -53,3 +53,9 @@ App name: ThinkUp
 <h3> Tweet your favourite quotes </h3>
 <img width="197" alt="8 1" src="https://user-images.githubusercontent.com/98111777/168879620-63eed523-3988-4a8f-aca8-f37cadef5db3.PNG">
 <img width="202" alt="9 1" src="https://user-images.githubusercontent.com/98111777/168879730-42ddda60-9ebc-4a11-88eb-d2372a6029f2.PNG">
+<img width="193" alt="10" src="https://user-images.githubusercontent.com/98111777/168887798-521e57a8-fdd8-4bdc-a3ce-38ed88f25aa8.PNG">
+
+<h1> Working Video </h1>
+https://user-images.githubusercontent.com/98111777/168888929-91d2fcd3-f1bb-4c91-991a-ee85502e4bac.mp4
+
+
