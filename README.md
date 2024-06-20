@@ -14,14 +14,6 @@ App name: ThinkUp
 - Find the motivation and positive mindset you need to succeed with daily encouragement. 
 - This app is designed to inspire you with positive affirmations and self-talk — a proven technique to make your mind work for you.
 - Further, the randomized quotes can be tweeted in twitter.
-
-<h1> Contributions </h1>
-  
-- All three members contributed equally in the logic,styling and debugging of all screens of the project.
-
-- Sweta: Integrating the API with the App ,generating the code and creating the MainScreen 
-- Sneka: Styling, Screen code ,quotes
-- Ruthrapriya: Buttons, Icons, Navigation, Merging of Screens
   
 <h1> ScreenShots </h1>
 
